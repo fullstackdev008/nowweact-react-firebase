@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Volunteer 01",
+    "avatar": "assets/images/small-avatar.png"
+  },
+  {
+    "id": 1,
+    "name": "Volunteer 02",
+    "avatar": "assets/images/small-avatar.png"
+  },
+  {
+    "id": 2,
+    "name": "Volunteer 03",
+    "avatar": "assets/images/small-avatar.png"
+  },
+  {
+    "id": 3,
+    "name": "Volunteer 04",
+    "avatar": "assets/images/small-avatar.png"
+  },
+  {
+    "id": 4,
+    "name": "Volunteer 05",
+    "avatar": "assets/images/small-avatar.png"
+  },
+  {
+    "id": 5,
+    "name": "Volunteer 06",
+    "avatar": "assets/images/small-avatar.png"
+  }
+]

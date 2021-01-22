@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "type": "Engineer"
+  },
+  {
+    "id": 1,
+    "type": "Community Manager"
+  },
+  {
+    "id": 2,
+    "type": "UX"
+  },
+  {
+    "id": 3,
+    "type": "Account Consultant"
+  }
+]

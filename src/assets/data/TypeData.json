@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "type": "Solar"
+  },
+  {
+    "id": 1,
+    "type": "Composting"
+  },
+  {
+    "id": 2,
+    "type": "Recycling"
+  },
+  {
+    "id": 3,
+    "type": "Ev.Charging"
+  }
+]

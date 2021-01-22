@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "title": "Wind Power",
+    "type": "Wind Power",
+    "country": "United Kingdom",
+    "address": "Lavington Street",
+    "image": "assets/images/image.png",
+    "city": "London",
+    "lat": 51.50511,
+    "lng": -0.10009
+  },
+  {
+    "id": 1,
+    "title": "Solar",
+    "type": "Solar",
+    "country": "United Kingdom",
+    "address": "Southwark Street",
+    "image": "assets/images/image.png",
+    "city": "London",
+    "lat": 51.50578,
+    "lng": -0.10050
+  },
+  {
+    "id": 2,
+    "title": "Recycling",
+    "type": "Recycling",
+    "country": "United Kingdom",
+    "address": "Park Street",
+    "image": "assets/images/image.png",
+    "city": "London",
+    "lat": 51.50739,
+    "lng": -0.09632
+  },
+  {
+    "id": 3,
+    "title": "EV.Charging",
+    "type": "EV.Charging",
+    "country": "United Kingdom",
+    "address": "Sumner Street",
+    "image": "assets/images/image.png",
+    "city": "London",
+    "lat": 51.50639,
+    "lng": -0.09565
+  },
+  {
+    "id": 4,
+    "title": "Solar",
+    "type": "Solar",
+    "country": "United Kingdom",
+    "address": "Gelateria 3Bis Borough Market",
+    "image": "assets/images/image.png",
+    "city": "London",
+    "lat": 51.90001,
+    "lng": -1.66015
+  }
+]
